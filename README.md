@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Library Management System is my first attempt at learning Spring Boot. Implemented following a comprehensive [blog post](https://ithelp.ithome.com.tw/articles/10339298), it incorporates DAO, controller, and service layers. 
+This Library Management System is my first attempt at learning Spring Boot. Implemented following a comprehensive [blog post](https://ithelp.ithome.com.tw/articles/10339298), it incorporates controller, service, and DAO layers. 
 The system provides essential CRUD (Create, Read, Update, Delete) operations for managing books in a library. 
 The system utilizes MySQL as the relational database and exposes RESTful APIs to interact seamlessly with book records.
 
